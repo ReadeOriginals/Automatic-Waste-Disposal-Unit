@@ -3,6 +3,5 @@ AWD Unit was a 2nd year University driven group project intended to allow differ
 
 This project ran approximately from December 2022 - March 2023, not including preliminary work (such as sustainability and ethics reports).
 
-https://imgur.com/gallery/automatic-waste-disposal-unit-tests-prototype-2023-d8ige8r
+Example videos: https://imgur.com/gallery/automatic-waste-disposal-unit-tests-prototype-2023-d8ige8r
 
-[Imgur](https://imgur.com/4bwhw12.gif)
