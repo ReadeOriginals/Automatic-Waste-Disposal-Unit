@@ -5,4 +5,5 @@ This project ran approximately from December 2022 - March 2023, not including pr
 
 https://imgur.com/gallery/automatic-waste-disposal-unit-tests-prototype-2023-d8ige8r
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/d8ige8r"  ><a href="//imgur.com/a/d8ige8r">Automatic Waste Disposal Unit Tests Prototype (2023)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Imgur](https://imgur.com/4bwhw12)
+[img]https://i.imgur.com/4bwhw12.mp4[/img]
