@@ -1,0 +1,1 @@
+These .blend files were resized in the slicer program to fit shape of the waste unit. This is also why two slightly different shapes were developed. For all the slicer settings to 3D print these, see the project report in the "docs" folder.
