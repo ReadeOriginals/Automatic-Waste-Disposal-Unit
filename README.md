@@ -5,3 +5,4 @@ This project ran approximately from December 2022 - March 2023, not including pr
 
 Example videos: https://imgur.com/gallery/automatic-waste-disposal-unit-tests-prototype-2023-d8ige8r
 
+See "Releases" for all code and CAD files used in the system.
